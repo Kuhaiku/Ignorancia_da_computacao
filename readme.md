@@ -39,7 +39,7 @@ Vamos lá oque tem aqui? aqui tem um cara puto da vida onde tudo está dando err
 Agora temos duas opções:
 
 
-1. "Ainn nossa mas se é assim eu não quero aprender a programar", nossa que triste, o garotinho mimado que não sabe enfrentar dificuldades, isso ae criança vaza! ([se não quer vazer veja esse video](https://youtu.be/VwyCizE_cPQ))
+1. "Ainn nossa mas se é assim eu não quero aprender a programar", nossa que triste, o garotinho mimado que não sabe enfrentar dificuldades, isso ae criança vaza! ([Se não quer vazar veja esse video](https://youtu.be/VwyCizE_cPQ))
 
 2. "Puta que pariuuuuu, eu não sei oque e nem como fazer, mas parece legal o desafio", duas palavras para ti PARA BENS puta que pariu que determinação hein? fico feliz, mas saiba que essa determinação não vai encher barriga muito menos te fazer melhor, mas definitivamente é o começo.
 
@@ -53,14 +53,69 @@ Vamos a prática essa porra de seilá tutoria da vida do GP vai começar com "se
 Baixe os seguintes programas:
 1. [Visual Studio Code](https://code.visualstudio.com/)
 2. [Node](https://nodejs.org/pt)
-3. [Git](https://git-scm.com/downloads)
+3. [Python](https://www.python.org/)
+4. [Git](https://git-scm.com/downloads)
 
 Extenções para o Visual Studio:
-4. [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-5. [Node.js Exec](https://marketplace.visualstudio.com/items?itemName=miramac.vscode-exec-node)
-6. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-Sites que você vai aprender a usar
+5. [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+6. [Node.js Exec](https://marketplace.visualstudio.com/items?itemName=miramac.vscode-exec-node)
+7. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+8. [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
 
-1. []()
-2. []()
+
+## É o seguinte, me falaram que é mais facil começar em Python, então vamos todo mundo fazer isso (y)
+
+Primeira coisa vamos entender a historia do Pythom (ah mas porque aprender a historia), sei lá man, to enchendo linguiça aqui
+
+- Origem do Python: 1989
+- Criador: GUildo Van Rossum
+
+O Python foi influenciado pela linguagem <strong>ABC</strong> que era uma linguagem pensada para o aprendizado dos iniciantes.
+
+Os Objetivos do Van Rossum para o Python:
+
+- Linguagem facil e intuitiva
+- Código aberto
+- Código Inteligivel (similaridades com a linguagem humana, no caso com o ingles)
+- Adequado para tarefas diárias
+
+<strong>Linha do Tempo do Python Resumido Porque F0da-se</strong>
+- 1989 Desenvolvimento
+- 1991 Primeira Versão 0.9.0
+- 1994 Versão 1.0
+- 1995 Versão 1.2
+- 2000 Versão 2.0 Implementações de Listas
+- 2001 Criação da Python Software Foundation
+- 2008 Versão 3.0
+
+<hr>
+
+### Linguagem Versatil
+
+O Python é uma Linguagem bem versatil, ele tem algumas caracteristicas:
+
+- Tipagem Dinamica
+- Multiplataforma / Multiparadigmas
+- Comunidade gigante e ativa
+- Baixa curva de aprendizado
+
+### Tipos de dados
+
+Os tipos servem para diferenciar as caracteristicas e comportamentos de cada um dos valores(objetos) para o interpretador
+
+### Os tipos Padrões
+
+- Texto (Str)
+- Numérico (Int, Float, Complex)
+- Sequencial (List, Tuple, Range)
+- Mapa (Dict)
+- Coleção (Set, Fronzenset)
+- Boolean (Bool) 
+- Binário (Bytes, Bytearray, Memoryview)
+
+#### Tipos Numéricos
+
+- Int
+- Float
+- Boolean
