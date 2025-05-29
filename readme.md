@@ -118,7 +118,8 @@ Os tipos servem para diferenciar as caracteristicas e comportamentos de cada um 
 
 - Int
 - Float
-- Boolean
+- Boolean 
+(em python o Boolean é uma sub-clase dos numéricos sendo verdadeiro para todo numedo diferente de 0)
 
 ```python
     # exemplo dos tipos de dados primitivos em Python
@@ -142,6 +143,9 @@ def main():
     print("\nTipo de dado: Booleano")
     print("Valor:", booleano)
     
+    print("\nTipo de dado: Numerico")
+    print("bollean falso é igual 0 ?", False == 0)  
+   
     print("\nTipo de dado: Texto")
     print("Valor:", texto)  
 
@@ -150,6 +154,7 @@ main()
 ```
 A saida disso é:
 ``` text
+   
     Tipo de dado: Inteiro
     Valor: 10
 
@@ -159,8 +164,10 @@ A saida disso é:
     Tipo de dado: Booleano
     Valor: True
 
+    Tipo de dado: Numerico
+    bollean falso é igual 0 ? True
+
     Tipo de dado: Texto
-    Valor: Olá, Mundo!
 ```
 
 #### Modo interativo

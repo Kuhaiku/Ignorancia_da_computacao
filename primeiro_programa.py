@@ -1,7 +1,3 @@
-# exemplo dos tipos de dados primitivos em Python
-
-# Esta é uma função que imprime exemplos simples que demonstram o uso de tipos de dados primitivos em Python.
-
 def main():
     # Tipos de dados primitivos
     inteiro = 10
@@ -19,6 +15,9 @@ def main():
     print("\nTipo de dado: Booleano")
     print("Valor:", booleano)
     
+    print("\nTipo de dado: Numerico")
+    print("bollean falso é igual 0 ?", False == 0)  
+   
     print("\nTipo de dado: Texto")
     print("Valor:", texto)  
 
