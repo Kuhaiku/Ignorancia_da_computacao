@@ -119,3 +119,50 @@ Os tipos servem para diferenciar as caracteristicas e comportamentos de cada um 
 - Int
 - Float
 - Boolean
+
+```python
+    # exemplo dos tipos de dados primitivos em Python
+
+# Esta é uma função que imprime exemplos simples que demonstram o uso de tipos de dados primitivos em Python.
+
+def main():
+    # Tipos de dados primitivos
+    inteiro = 10
+    flutuante = 3.14
+    booleano = True
+    texto = "Olá, Mundo!"
+
+    # Exibindo os valores
+    print("Tipo de dado: Inteiro")
+    print("Valor:", inteiro)
+    
+    print("\nTipo de dado: Flutuante")
+    print("Valor:", flutuante)
+    
+    print("\nTipo de dado: Booleano")
+    print("Valor:", booleano)
+    
+    print("\nTipo de dado: Texto")
+    print("Valor:", texto)  
+
+main()
+
+```
+A saida disso é:
+``` text
+    Tipo de dado: Inteiro
+    Valor: 10
+
+    Tipo de dado: Flutuante
+    Valor: 3.14
+
+    Tipo de dado: Booleano
+    Valor: True
+
+    Tipo de dado: Texto
+    Valor: Olá, Mundo!
+```
+
+#### Modo interativo
+É sobre abrir o Python no console e execultar linha a linha do código, honestamente, o Leonardo de 24 anos aqui não vê razão e nem utilidade para isso tendo em vista a facilidade de fazer testes via script, mas nada impede de eu estar errado que só a porra (y) só o tempo dirá kkkj
+
