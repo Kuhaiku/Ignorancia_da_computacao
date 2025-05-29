@@ -48,7 +48,7 @@ Nossa que triste não aprender nada, sim é de fato, mas você não vai aprender
 
 
 ## Agora chega de teoria e pessimismo
-Vamos a prática essa porra de seilá tutoria da vida do GP vai começar com "serei um programador web"
+Vamos a prática essa porra de seilá tutoria da vida do GP vai começar com "serei um programador web" ou qualquer merda do tipo (vulgo atualizei esse roteiro e botei Python, agora não quero só web, sim fdc a faculdade ta mexendo com a minha cabeça, vlw falou, esse fui eu do futuro alterando essa porra porque coringuei)
 
 Baixe os seguintes programas:
 1. [Visual Studio Code](https://code.visualstudio.com/)
