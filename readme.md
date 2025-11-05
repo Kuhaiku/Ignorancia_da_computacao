@@ -173,3 +173,5 @@ A saida disso é:
 #### Modo interativo
 É sobre abrir o Python no console e execultar linha a linha do código, honestamente, o Leonardo de 24 anos aqui não vê razão e nem utilidade para isso tendo em vista a facilidade de fazer testes via script, mas nada impede de eu estar errado que só a porra (y) só o tempo dirá kkkj
 
+
+#EITA PORRA LEMBREI A SENHA DESSA MERDA
